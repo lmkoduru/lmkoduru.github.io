@@ -1,0 +1,25 @@
+body {
+    background-color: palevioletred;
+    border-style: dotted;
+    border-width: 6px;
+    border-color: #191970;
+    background-size: 35%;
+    }
+    
+    /*I love the Hunger Games movie a lot!*/
+    .heading {
+    font-family: Times New Roman;
+    text-align: center;
+    margin-top: 3%;
+    }
+    
+    .listone { /*defining the format for the list*/
+    font-family: verdana;
+    font-size: 20px;
+    margin-top: 10%;
+    margin-left: 35%;
+    }
+    
+    table, th, td {
+      border:1px solid black;
+    }
