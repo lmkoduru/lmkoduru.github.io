@@ -6,6 +6,7 @@ ul.abc {
     color: black;
 }
 
-header {
+h1 {
     color: blue;
+    text-align: center;
 }
