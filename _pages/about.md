@@ -10,14 +10,14 @@ redirect_from:
 
 About me
 ------
-I’m a Computer Science Ph.D. student at the University of California, Santa Barbara, working under the supervision of Professor [Arpit Gupta](https://sites.cs.ucsb.edu/~arpitgupta/) in the Systems and Networking Lab and Professor [Elizabeth Belding](https://ebelding.cs.ucsb.edu) in the Mobility Management and Networking (MOMENT) Lab.
+I’m a Computer Science Ph.D. student at the University of California, Santa Barbara, working under the supervision of Professor [Arpit Gupta](https://sites.cs.ucsb.edu/~arpitgupta/) in the Systems and Networking Lab (SNL) and Professor [Elizabeth Belding](https://ebelding.cs.ucsb.edu) in the Mobility Management and Networking (MOMENT) Lab.
 
 My research is focused on enabling data-driven policymaking to achieve universal access to high-quality and affordable broadband networks. Currently, I am leading the development of an AI-based querying system that mimics human interactions with ISPs' web portals to scale up data collection efficiently.
 
 
 Interests
 ------
-My interests lie at the intersection of data-driven policymaking, machine learning, and systems.  
+My interests lie at the intersection of data-driven policymaking, networks, systems, and machine learning.  
 
 Selected Publications
 ------
