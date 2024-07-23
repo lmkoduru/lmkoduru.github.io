@@ -17,7 +17,7 @@ My research is focused on enabling data-driven policymaking to achieve universal
 
 Interests
 ------
-My Interests are in the intersection of Machine Learning, Networks, and Systems. 
+My interests lie at the intersection of data-driven policymaking, machine learning, and systems.  
 
 Selected Publications
 ------
