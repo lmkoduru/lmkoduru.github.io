@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CAF
 excerpt: 'Haarika Manda, Varshika Srinivasavaradhan, Laasya Koduru, Kevin Zhang, Xuanhe Zhou, Udit Paul, Elizabeth Belding, Arpit Gupta, and Tejas N. Narechania'
 date: 2024-05-28
-venue: 'ACM SIGCOMM 2024'
+venue: 'ACM SIGCOMM'
 paperurl: 'https://doi.org/10.48550/arXiv.2405.18657'
 citation: 'Haarika Manda, Varshika Srinivasavaradhan, Laasya Koduru, Kevin Zhang, Xuanhe Zhou, Udit Paul, Elizabeth Belding, Arpit Gupta, and Tejas N. Narechania. 2024. The Efficacy of the Connect America Fund in Addressing US Internet Access Inequities. Proc. ACM SIGCOMM.'
 ---
