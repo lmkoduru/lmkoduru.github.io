@@ -26,3 +26,8 @@ https://doi.org/10.48550/arXiv.2405.18657) <br />
     Haarika Manda, Varshika Srinivasavaradhan, Laasya Koduru, Kevin Zhang, Xuanhe Zhou, Udit Paul, Elizabeth Belding, Arpit Gupta, and Tejas N. Narechania. <br />
     Proceedings of the ACM SIGCOMM 2024 Conference  <br />
     https://doi.org/10.48550/arXiv.2405.18657 <br />
+2. [Measuring Broadband Policy Success](
+https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success/) <br />
+    Haarika Manda, Varshika Srinivasavaradhan, Laasya Koduru, Kevin Zhang, Xuanhe Zhou, Udit Paul, Elizabeth Belding, Arpit Gupta, and Tejas N. Narechania. <br />
+    In Harvard Law Review Blog 2024  <br />
+    https://harvardlawreview.org/blog/2024/07/measuring-broadband-policy-success/ <br />
