@@ -12,9 +12,6 @@ About me
 ------
 I am a Ph.D. student in the Computer Science Department at the University of California, Santa Barbara, advised by Professor [Arpit Gupta](https://sites.cs.ucsb.edu/~arpitgupta/) and Professor [Elizabeth Belding](https://ebelding.cs.ucsb.edu).
 
-
-
-
 Interests
 ------
 My interests lie at the intersection of data-driven policymaking, networking, machine learning, and systems.  
