@@ -14,7 +14,11 @@ I am a Ph.D. student in the Computer Science Department at the University of Cal
 
 Interests
 ------
-My interests lie at the intersection of data-driven policymaking, networking, machine learning, and systems.  
+My interests lie at the intersection of data-driven policymaking, networking, machine learning, and systems. 
+
+Research
+------
+My research is focused on enabling data-driven policymaking to achieve universal access to high-quality and affordable broadband networks. 
 
 Selected Publications
 ------
