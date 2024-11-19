@@ -18,7 +18,7 @@ My interests lie at the intersection of data-driven policymaking, networking, ma
 
 Research
 ------
-My research is focused on enabling data-driven policymaking to achieve universal access to high-quality and affordable broadband networks. 
+My research is focused on enabling data-driven policymaking to achieve universal access to high-quality and affordable broadband networks.  This involves addressing the disparities in internet access and digital equity, which inform policy actions like subsidy programs, rate regulations, and infrastructure funding. However, a significant gap exists between the broadband data currently used for policy decisions and the precise data needed. Often, these datasets are sparse, noisy, or based on unreliable self-reported information, leading to potentially flawed funding decisions that disproportionately affect underserved areas. To address this, there is an urgent need to develop a sustainable, open digital infrastructure to bridge this data gap and provide accurate data for effective policymaking.
 
 Selected Publications
 ------
