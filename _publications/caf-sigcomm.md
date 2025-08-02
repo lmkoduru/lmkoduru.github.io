@@ -6,7 +6,7 @@ excerpt: 'Haarika Manda, Varshika Srinivasavaradhan, Laasya Koduru, Kevin Zhang,
 date: 2024-05-28
 venue: 'ACM SIGCOMM'
 paperurl: 'https://dl.acm.org/doi/10.1145/3651890.3672272'
-citation: 'Haarika Manda, Varshika Srinivasavaradhan, Laasya Koduru, Kevin Zhang, Xuanhe Zhou, Udit Paul, Elizabeth Belding, Arpit Gupta, and Tejas N. Narechania. 2024. The Efficacy of the Connect America Fund in Addressing US Internet Access Inequities. Proc. ACM SIGCOMM.'
+# citation: 'Haarika Manda, Varshika Srinivasavaradhan, Laasya Koduru, Kevin Zhang, Xuanhe Zhou, Udit Paul, Elizabeth Belding, Arpit Gupta, and Tejas N. Narechania. 2024. The Efficacy of the Connect America Fund in Addressing US Internet Access Inequities. Proc. ACM SIGCOMM.'
 ---
 Haarika Manda, Varshika Srinivasavaradhan, Laasya Koduru, Kevin Zhang, Xuanhe Zhou, Udit Paul, Elizabeth Belding, Arpit Gupta, and Tejas N. Narechania
 
