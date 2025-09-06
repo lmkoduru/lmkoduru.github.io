@@ -1,10 +1,10 @@
 ---
-title: "[Evaluating the Effects of and Interdependencies Among Federal Broadband Funding Programs]()"
+title: "[Evaluating the Effects of and Interdependencies Among Federal Broadband Funding Programs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5369779)"
 collection: publications
 permalink: /publication/TPRC-Broadband-Programs
 excerpt: 'Laasya Koduru, Arpit Gupta, Elizabeth Belding, and Tejas N. Narechania'
 date: 2025-08-01
-venue: 'Telecommunications Policy Research Conference (TPRC)'
+venue: 'The Research Conference on Communications, Information and Internet Policy (TPRC)'
 paperurl: ''
 # citation: 'Laasya Koduru, Arpit Gupta, Elizabeth Belding, and Tejas N. Narechania. 2025 Evaluating the Effects of and Interdependencies Among Federal Broadband Funding Programs. Telecommunications Policy Research Conference (TPRC)'
 ---
