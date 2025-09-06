@@ -2,7 +2,7 @@
 title: "[Strategic Reporting in the National Broadband Map](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5386455)"
 collection: publications
 permalink: /publication/TPRC-Strategic-Reporting
-excerpt: 'Zhuowei Wen, Jocelyn Bliton, Laasya Koduru, Elizabeth Belding, Tejas N. Narechania, Arpit Gupta, and Shaddi Hasan'
+excerpt: 'Zhuowei Wen, Jocelyn Bliton, Laasya Koduru, Arpit Gupta, and Shaddi Hasan'
 date: 2025-08-01
 venue: 'The Research Conference on Communications, Information and Internet Policy (TPRC)'
 paperurl: ''

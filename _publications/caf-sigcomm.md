@@ -1,5 +1,5 @@
 ---
-title: "[The Efficacy of the Connect America Fund in Addressing US Internet Access Inequities]()"
+title: "[The Efficacy of the Connect America Fund in Addressing US Internet Access Inequities](https://dl.acm.org/doi/10.1145/3651890.3672272)"
 collection: publications
 permalink: /publication/CAF
 excerpt: 'Haarika Manda, Varshika Srinivasavaradhan, Laasya Koduru, Kevin Zhang, Xuanhe Zhou, Udit Paul, Elizabeth Belding, Arpit Gupta, and Tejas N. Narechania'
