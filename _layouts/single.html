@@ -38,7 +38,10 @@ layout: default
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
           {% if page.excerpt %}
-            <p class="page__authors">{{ page.excerpt }}</p>
+            {% assign content_text = content | strip_html | strip_newlines | strip %}
+            {% unless content_text contains page.excerpt %}
+              <p class="page__authors">{{ page.excerpt }}</p>
+            {% endunless %}
           {% endif %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
