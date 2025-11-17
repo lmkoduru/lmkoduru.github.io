@@ -3,7 +3,7 @@ title: "[Strategic Reporting in the National Broadband Map](https://papers.ssrn.
 collection: publications
 permalink: /publication/TPRC-Strategic-Reporting
 excerpt: 'Zhuowei Wen, Jocelyn Bliton, Laasya Koduru, Arpit Gupta, and Shaddi Hasan'
-date: 2025-08-01
+date: 2025-07-21
 venue: 'The Research Conference on Communications, Information and Internet Policy (TPRC)'
 paperurl: ''
 # citation: 'Laasya Koduru, Arpit Gupta, Elizabeth Belding, and Tejas N. Narechania. 2025 Evaluating the Effects of and Interdependencies Among Federal Broadband Funding Programs. Telecommunications Policy Research Conference (TPRC)'
