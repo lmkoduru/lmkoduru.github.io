@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/NetGent
 excerpt: 'Jaber Daneshamooz, Eugene Vuong, Laasya Koduru, Sanjay Chandrasekaran, and Arpit Gupta'
 date: 2025-08-30
-venue: 'ArXiv'
+venue: 'NeurIPS Workshop on ML for Systems (MLforSys)'
 paperurl: ''
 
 ---
