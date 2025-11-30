@@ -23,5 +23,5 @@ My research is focused on enabling data-driven policymaking to achieve universal
 Awards
 ------
 - The National GEM Consortium Ph.D. Science and Engineering Fellowship (April 2025 - Present) 
-- UC Santa Barbara Computer Science Summer Fellowship Award (June 2024) 
+- UC Santa Barbara Computer Science Summer Fellowship (June 2024) 
 
