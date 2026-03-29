@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/jcots-study
 excerpt: 'Kira Allmann, Elizabeth Belding, Arpit Gupta, Laasya Koduru, Tejas Narechania and Alexander Nguyen'
 date: 2025-11-20
-venue: 'Virginia General Assembly, 2025'
+venue: 'Virginia General Assembly'
 paperurl: ''
 ---
 Kira Allmann, Elizabeth Belding, Arpit Gupta, Laasya Koduru, Tejas Narechania and Alexander Nguyen
