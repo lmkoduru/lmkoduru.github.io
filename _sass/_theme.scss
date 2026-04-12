@@ -1,0 +1,160 @@
+/* ==========================================================================
+   THEME (Light / Dark Mode)
+   ========================================================================== */
+
+:root {
+  --theme-bg:         #1a1a1a;
+  --theme-text:       #e0ddd5;
+  --theme-border:     #3a3a3a;
+  --theme-code-bg:    #252525;
+  --theme-primary:    #a09e96;
+  --theme-link:       #ffd700;
+  --theme-link-hover: #ffe566;
+  --theme-nav-link:   #e0ddd5;
+}
+
+[data-theme="light"] {
+  --theme-bg:         #fafafa;
+  --theme-text:       #1a1a1a;
+  --theme-border:     #d0d0d0;
+  --theme-code-bg:    #f0f0f0;
+  --theme-primary:    #777777;
+  --theme-link:       #9a6e00;
+  --theme-link-hover: #7a5500;
+  --theme-nav-link:   #1a1a1a;
+}
+
+/* Smooth transitions on theme switch */
+body,
+.masthead,
+.greedy-nav,
+.author__urls,
+.page__footer {
+  transition: background-color 0.25s ease, color 0.25s ease, border-color 0.25s ease !important;
+}
+
+/* ---- Body ---- */
+body {
+  background-color: var(--theme-bg) !important;
+  color: var(--theme-text) !important;
+}
+
+/* ---- Masthead / Navigation ---- */
+.masthead {
+  background: var(--theme-bg) !important;
+  border-bottom-color: var(--theme-border) !important;
+}
+
+.greedy-nav {
+  background: var(--theme-bg) !important;
+
+  a {
+    color: var(--theme-nav-link) !important;
+  }
+}
+
+/* ---- Links in page content ---- */
+.page__content a,
+.archive__item-title a,
+.archive__item-excerpt a {
+  color: var(--theme-link) !important;
+
+  &:hover {
+    color: var(--theme-link-hover) !important;
+  }
+}
+
+/* ---- Horizontal rules ---- */
+hr {
+  border-top-color: var(--theme-border) !important;
+}
+
+/* ---- Blockquote ---- */
+blockquote {
+  border-left-color: var(--theme-primary) !important;
+}
+
+/* ---- Section headings underline ---- */
+.page__content h2 {
+  border-bottom-color: var(--theme-border) !important;
+}
+
+/* ---- Inline code ---- */
+p > code,
+a > code,
+li > code,
+figcaption > code,
+td > code {
+  background: var(--theme-code-bg) !important;
+  border-color: var(--theme-border) !important;
+}
+
+/* ---- Sidebar ---- */
+.author__avatar img {
+  border-color: var(--theme-border) !important;
+}
+
+.author__urls {
+  background: var(--theme-bg) !important;
+  border-color: var(--theme-border) !important;
+
+  &:before {
+    border-color: var(--theme-border) transparent !important;
+  }
+
+  &:after {
+    border-color: var(--theme-bg) transparent !important;
+  }
+}
+
+.author__urls-wrapper .fa,
+.author__urls-wrapper .fas,
+.author__urls-wrapper .fab,
+.author__urls-wrapper .far,
+.author__urls-wrapper svg {
+  color: var(--theme-text) !important;
+}
+
+/* ---- Pagination borders ---- */
+.page__content + .pagination,
+.page__meta + .pagination,
+.page__share + .pagination,
+.page__comments + .pagination {
+  border-top-color: var(--theme-border) !important;
+}
+
+/* ---- Theme toggle button ---- */
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 1.2em;
+  z-index: 25;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: 1px solid var(--theme-border);
+  border-radius: 4px;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  color: var(--theme-text) !important;
+  font-size: 0.9em;
+  opacity: 0.75;
+  transition: opacity 0.2s, border-color 0.25s ease, color 0.25s ease !important;
+
+  &:hover {
+    opacity: 1;
+  }
+
+  /* Dark mode (default): show sun → "click to go light" */
+  .theme-toggle__sun  { display: inline-block; }
+  .theme-toggle__moon { display: none; }
+}
+
+/* Light mode: show moon → "click to go dark" */
+[data-theme="light"] .theme-toggle {
+  .theme-toggle__sun  { display: none; }
+  .theme-toggle__moon { display: inline-block; }
+}
