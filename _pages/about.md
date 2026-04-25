@@ -14,7 +14,7 @@ I am a Computer Science Ph.D. student at the University of California, Santa Bar
 
 Interests
 ------
-My interests lie at the intersection of multi-agent systems, network measurement, and data-driven policymaking. 
+My interests lie at the intersection of machine learning, network measurement, and data-driven policymaking. 
 
 Research
 ------
