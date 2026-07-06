@@ -21,6 +21,6 @@ To address this, my work centers on building a sustainable, open digital infrast
 
 <h2 class="calligraphy-heading">Fellowships &amp; Awards</h2>
 - UC Santa Barbara Neal Fenzi Resonant Founder Fellowship, April 2026
-- The National GEM Consortium Ph.D. Science and Engineering Fellowship, April 2025-Present
+- [The National GEM Consortium Ph.D. Science and Engineering Fellowship](https://www.gemfellowship.org/2025-gem-fellows/), April 2025-Present
 - UC Santa Barbara Computer Science Summer Fellowship, June 2024
 
