@@ -20,6 +20,7 @@ My research focuses on enabling data-driven policymaking to achieve universal ac
 To address this, my work centers on building a sustainable, open digital infrastructure capable of bridging this data gap. It requires validated data systems that make digital infrastructure measurable, accountable, and intelligently operable. My goal is not only to produce more accurate data, but to establish independent broadband data ecosystems that can credibly inform billion-dollar investment decisions and support regulatory accountability - ensuring that policy interventions are built upon fine-grained and verifiable data.
 
 <h2 class="calligraphy-heading">Fellowships &amp; Awards</h2>
-- The National GEM Consortium Ph.D. Science and Engineering Fellowship (April 2025 - Present) 
-- UC Santa Barbara Computer Science Summer Fellowship (June 2024) 
+- UC Santa Barbara Neal Fenzi Resonant Founder Fellowship, April 2026
+- The National GEM Consortium Ph.D. Science and Engineering Fellowship, April 2025-Present
+- UC Santa Barbara Computer Science Summer Fellowship, June 2024
 
