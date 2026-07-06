@@ -59,6 +59,13 @@ blockquote {
   border-bottom-color: var(--theme-border) !important;
 }
 
+/* ---- Calligraphy heading ---- */
+.page__content h2.calligraphy-heading {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-size: 2em;
+}
+
 /* ---- Inline code ---- */
 p > code,
 a > code,
