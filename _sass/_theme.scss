@@ -66,11 +66,12 @@ blockquote {
   font-size: 1.8em;
 }
 
-/* ---- Gold shimmer on homepage name ---- */
+/* ---- Gold & blue shimmer on homepage name ---- */
 .page__title--shimmer {
   width: fit-content;
+  font-size: 2.2em;
   background: linear-gradient(100deg,
-    var(--theme-text) 42%, var(--theme-link) 50%, var(--theme-text) 58%);
+    var(--theme-text) 34%, var(--theme-link) 44%, #2456a6 56%, var(--theme-text) 66%);
   background-size: 250% 100%;
   -webkit-background-clip: text;
   background-clip: text;
