@@ -59,11 +59,11 @@ blockquote {
   border-bottom-color: var(--theme-border) !important;
 }
 
-/* ---- Calligraphy heading ---- */
-.page__content h2.calligraphy-heading {
-  font-family: "Dancing Script", cursive;
-  font-weight: 400;
-  font-size: 1.8em;
+/* ---- Section heading ---- */
+.page__content h2.section-heading {
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 500;
+  font-size: 1.65em;
   color: #2456a6;
 }
 
