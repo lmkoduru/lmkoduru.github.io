@@ -11,6 +11,8 @@
   --theme-link:       #9a6e00;
   --theme-link-hover: #7a5500;
   --theme-nav-link:   #1a1a1a;
+  --theme-pub-title:       #8c5a2b;
+  --theme-pub-title-hover: #6b421c;
 }
 
 /* ---- Body ---- */
@@ -41,6 +43,16 @@ body {
 
   &:hover {
     color: var(--theme-link-hover) !important;
+  }
+}
+
+/* ---- Publication titles (bronze) ---- */
+.archive__item-title,
+.archive__item-title a {
+  color: var(--theme-pub-title) !important;
+
+  &:hover {
+    color: var(--theme-pub-title-hover) !important;
   }
 }
 
