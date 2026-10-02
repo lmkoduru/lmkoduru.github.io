@@ -1,5 +1,5 @@
 ---
-title: "[Broadband Affordability and the BEAD Program: Analysis and Policy Recommendations](https://arnicusc.org/wp-content/uploads/2026/02/Policy-Brief-BEAD-3.pdf) <span style='color:#fff; background:#28a745; padding:2px 6px; border-radius:4px; font-size:0.8em;'>Policy</span>"
+title: "[Broadband Affordability and the BEAD Program: Analysis and Policy Recommendations](https://arnicusc.org/wp-content/uploads/2026/02/Policy-Brief-BEAD-3.pdf)"
 collection: publications
 permalink: /publication/bead-brief
 excerpt: 'Hernan Galperin, Francois Bar, Arpit Gupta, Elizabeth Belding, and Laasya Koduru'
