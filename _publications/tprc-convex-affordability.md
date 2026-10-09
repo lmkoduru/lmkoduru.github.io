@@ -1,5 +1,5 @@
 ---
-title: "From Measurement to Policy Design: A Convex Optimization Framework for Broadband Affordability Using Address-Level Data Collected with the Broadband-Plan Querying Tool (BQT+)"
+title: "From Measurement to Policy Design: A Convex Optimization Framework for Broadband Affordability"
 collection: publications
 permalink: /publication/TPRC-Convex-Affordability
 excerpt: 'Laasya Koduru, Kira Allmann, Tejas N. Narechania, Elizabeth Belding, and Arpit Gupta'
