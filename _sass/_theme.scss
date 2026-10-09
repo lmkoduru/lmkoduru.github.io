@@ -160,6 +160,10 @@ td > code {
     margin-bottom: 0.1em;
     line-height: 1.3;
 
+    a + a {
+      opacity: 1;
+    }
+
     &::before {
       content: "\2022";
       position: absolute;
