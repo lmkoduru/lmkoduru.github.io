@@ -3,7 +3,7 @@ title: "[Assessing the Broadband Service Gaps and Affordability Barriers in BEAD
 collection: publications
 permalink: /publication/TPRC-BEAD-BSLs
 excerpt: 'Laasya Koduru, Alejandro Alvarado Rojas, Angel Chevez Penate, Siyi Zhou, Francois Bar, Elizabeth Belding, Hernan Galperin, and Arpit Gupta'
-date: 2025-08-01
+date: 2025-11-18
 venue: 'The Research Conference on Communications, Information and Internet Policy (TPRC)'
 paperurl: ''
 # citation: 'Laasya Koduru, Arpit Gupta, Elizabeth Belding, and Tejas N. Narechania. 2025 Evaluating the Effects of and Interdependencies Among Federal Broadband Funding Programs. Telecommunications Policy Research Conference (TPRC)'
