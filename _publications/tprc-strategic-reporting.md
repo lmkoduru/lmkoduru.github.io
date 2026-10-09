@@ -1,5 +1,5 @@
 ---
-title: "[Strategic Reporting in the National Broadband Map](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5386455)"
+title: "[Strategic Misreporting in the National Broadband Map](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5386455)"
 collection: publications
 permalink: /publication/TPRC-Strategic-Reporting
 excerpt: 'Zhuowei Wen, Jocelyn Bliton, Laasya Koduru, Arpit Gupta, and Shaddi Hasan'
