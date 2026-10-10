@@ -1,5 +1,5 @@
 ---
-title: "Poster: Enabling Data-Driven Policymaking using the Broadband-Plan Querying Tool (BQT+)"
+title: "[Poster: Enabling Data-Driven Policymaking using the Broadband-Plan Querying Tool (BQT+)](https://dl.acm.org/doi/abs/10.1145/3730567.3768609)"
 collection: publications
 section: posters-workshops
 permalink: /publication/bqt-imc-poster
