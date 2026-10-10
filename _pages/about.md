@@ -19,6 +19,11 @@ My research focuses on enabling data-driven policymaking to achieve universal ac
 
 To address this, my work centers on building a sustainable, open digital infrastructure capable of bridging this data gap. It requires validated data systems that make digital infrastructure measurable, accountable, and intelligently operable. My goal is to build independent broadband data ecosystems that can credibly inform billion-dollar investment decisions and support regulatory accountability with fine-grained, verifiable data.
 
+<h2 class="section-heading">Invited Talks &amp; Tutorials</h2>
+- TPRC54 Pre-Conference Tutorial: Informing Data-Driven Broadband Policy: Tools for Policymakers, Scholars, and Advocates, American University Washington College of Law, Washington, DC, Sep 2026
+- AIMS-19: Enabling Data-Driven Broadband Policymaking using BQT+, University of California San Diego, Feb 2026
+- Quello Center/MSU: Data-Driven Broadband Policymaking: Bridging the Data Gaps for Effective Policymaking with BQT, Dec 2025
+
 <h2 class="section-heading">Fellowships &amp; Awards</h2>
 - UC Santa Barbara Graduate Division Neal Fenzi Resonant Founder Fellowship, April 2026
 - The National GEM Consortium Ph.D. Science and Engineering Fellowship, April 2025-Present
