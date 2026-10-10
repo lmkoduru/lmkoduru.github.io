@@ -1,5 +1,5 @@
 ---
-title: "From Measurement to Policy Design: A Convex Optimization Framework for Broadband Affordability"
+title: "[From Measurement to Policy Design: A Convex Optimization Framework for Broadband Affordability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7590899)"
 collection: publications
 permalink: /publication/TPRC-Convex-Affordability
 excerpt: 'Laasya Koduru, Kira Allmann, Tejas N. Narechania, Elizabeth Belding, and Arpit Gupta'
