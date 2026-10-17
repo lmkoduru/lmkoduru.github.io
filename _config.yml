@@ -243,6 +243,11 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # Unlisted CV: keep out of sitemap.xml
+  - scope:
+      path: "files/cv-bkv08kucz9.pdf"
+    values:
+      sitemap: false
 
 # Sass/SCSS
 sass:
