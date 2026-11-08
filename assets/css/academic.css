@@ -362,3 +362,11 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoratio
 .pub__authors { text-wrap: balance; }
 .pub__authors .au { white-space: nowrap; }
 .pub__title, .tl__body h2, .page-head p { text-wrap: pretty; }
+
+/* ---------- Advisor names in the About text ---------- */
+.prose a {
+  color: var(--ink); font-weight: 600;
+  text-decoration: underline; text-decoration-color: var(--gold);
+  text-decoration-thickness: 2px; text-underline-offset: 4px;
+}
+.prose a:hover { color: var(--accent); text-decoration-color: var(--gold-hi); }
