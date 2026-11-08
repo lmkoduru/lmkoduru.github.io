@@ -1,4 +1,4 @@
-# Invited talks & tutorials, newest first.
+# Invited talks, tutorials & conference talks, newest first.
 - title: "Informing Data-Driven Broadband Policy: Tools for Policymakers, Scholars, and Advocates"
   kind: Tutorial
   event: "TPRC54 Pre-Conference Tutorial"
@@ -6,9 +6,16 @@
   date: 2026-09-01
   date_label: "Sep 2026"
 
+- title: "From Measurement to Policy Design: A Convex Optimization Framework for Broadband Affordability"
+  kind: Conference talk
+  event: "TPRC54"
+  place: "American University Washington College of Law, Washington, DC"
+  date: 2026-09-01
+  date_label: "Sep 2026"
+
 - title: "Enabling Data-Driven Broadband Policymaking using BQT+"
   kind: Invited talk
-  event: "AIMS-19 Workshop"
+  event: "CAIDA AIMS-19 Workshop"
   place: "UC San Diego, La Jolla, CA"
   date: 2026-02-01
   date_label: "Feb 2026"
@@ -19,3 +26,10 @@
   place: "Michigan State University (virtual)"
   date: 2025-12-01
   date_label: "Dec 2025"
+
+- title: "Evaluating the Effects of and Interdependencies Among Federal Broadband Funding Programs"
+  kind: Conference talk
+  event: "TPRC53"
+  place: "American University Washington College of Law, Washington, DC"
+  date: 2025-09-01
+  date_label: "Sep 2025"

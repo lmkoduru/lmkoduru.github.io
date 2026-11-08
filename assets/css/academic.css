@@ -361,4 +361,4 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoratio
 /* ---------- Even line breaks: no lone name on the last line ---------- */
 .pub__authors { text-wrap: balance; }
 .pub__authors .au { white-space: nowrap; }
-.pub__title, .tl__body h2, .page-head h1, .page-head p { text-wrap: balance; }
+.pub__title, .tl__body h2, .page-head p { text-wrap: pretty; }
