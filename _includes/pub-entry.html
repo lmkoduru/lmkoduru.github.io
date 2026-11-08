@@ -1,0 +1,14 @@
+{%- comment -%} Renders one publication. Title front matter is "[Title](url)". {%- endcomment -%}
+{%- assign p = include.post -%}
+{%- assign raw = p.title | remove_first: '[' -%}
+{%- assign parts = raw | split: '](' -%}
+{%- assign ptitle = parts[0] -%}
+{%- assign purl = parts[1] | remove: ')' -%}
+<li class="pub">
+  {% include venue-tag.html venue=p.venue %}
+  <div>
+    <h3 class="pub__title">{% if purl and purl != '' %}<a href="{{ purl }}">{{ ptitle }}</a>{% else %}{{ ptitle }}{% endif %}</h3>
+    <p class="pub__authors">{{ p.excerpt | strip_html | strip | replace: "Laasya Koduru", "<strong>Laasya Koduru</strong>" }}</p>
+    <p class="pub__meta">{{ p.venue }}, {{ p.date | date: "%Y" }}</p>
+  </div>
+</li>

@@ -1,0 +1,30 @@
+---
+layout: academic
+title: "Publications"
+permalink: /publications/
+---
+{% include base_path %}
+
+<header class="page-head">
+  <h1>Publications</h1>
+  <p>Papers, posters, and policy reports on broadband measurement and data-driven policy. Full list also on <a href="https://scholar.google.com/citations?user=fI4-WaAAAAAJ">Google Scholar</a>.</p>
+  {% include signal-trace.html id="pubs" %}
+</header>
+
+{%- assign all = site.publications | sort: "date" | reverse -%}
+{%- assign main = all | where_exp: "p", "p.section != 'posters-workshops'" -%}
+{%- assign posters = all | where: "section", "posters-workshops" -%}
+
+<h2 class="subhead">Papers &amp; reports</h2>
+{%- assign years = main | group_by_exp: "p", "p.date | date: '%Y'" -%}
+{%- for y in years -%}
+<div class="year">{{ y.name }}</div>
+<ul class="pubs">
+  {%- for post in y.items -%}{% include pub-entry.html post=post %}{%- endfor -%}
+</ul>
+{%- endfor -%}
+
+<h2 class="subhead">Posters &amp; workshops</h2>
+<ul class="pubs">
+  {%- for post in posters -%}{% include pub-entry.html post=post %}{%- endfor -%}
+</ul>

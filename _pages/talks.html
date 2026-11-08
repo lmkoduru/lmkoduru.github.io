@@ -1,16 +1,26 @@
 ---
-layout: archive
-title: "Talks and presentations"
+layout: academic
+title: "Talks"
 permalink: /talks/
-author_profile: true
 ---
+{% include base_path %}
 
-{% if site.talkmap_link == true %}
+<header class="page-head">
+  <h1>Talks &amp; tutorials</h1>
+  <p>Invited talks and tutorials on measuring broadband plans at scale and turning that data into policy.</p>
+  {% include signal-trace.html id="talks" %}
+</header>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<ol class="timeline" reversed>
+  {%- for t in site.data.talks -%}
+  <li class="tl">
+    <div class="tl__date">{{ t.date_label }}</div>
+    <span class="tl__dot" aria-hidden="true"></span>
+    <div class="tl__body">
+      <span class="tl__kind">{{ t.kind }}</span>
+      <h2>{% if t.url %}<a href="{{ t.url }}">{{ t.title }}</a>{% else %}{{ t.title }}{% endif %}</h2>
+      <p class="tl__where">{{ t.event }} · {{ t.place }}</p>
+    </div>
+  </li>
+  {%- endfor -%}
+</ol>

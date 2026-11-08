@@ -1,0 +1,12 @@
+{%- assign v = include.venue -%}
+{%- assign policy = false -%}
+{%- if v contains 'SIGCOMM' -%}{%- assign tag = 'SIGCOMM' -%}
+{%- elsif v contains 'PRIME' -%}{%- assign tag = 'PRIME' -%}
+{%- elsif v contains 'IMC' -%}{%- assign tag = 'IMC' -%}
+{%- elsif v contains 'NeurIPS' -%}{%- assign tag = 'NeurIPS' -%}
+{%- elsif v contains 'TPRC' -%}{%- assign tag = 'TPRC' -%}
+{%- elsif v contains 'arXiv' -%}{%- assign tag = 'arXiv' -%}
+{%- elsif v contains 'Harvard' -%}{%- assign tag = 'HLR Blog' -%}{%- assign policy = true -%}
+{%- else -%}{%- assign tag = 'Policy' -%}{%- assign policy = true -%}
+{%- endif -%}
+<span class="pub__venue{% if policy %} is-policy{% endif %}">{{ tag }}</span>

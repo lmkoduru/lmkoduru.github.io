@@ -1,0 +1,17 @@
+{%- assign tid = include.id | default: 'a' -%}
+<svg class="trace" viewBox="0 0 520 44" preserveAspectRatio="xMinYMid meet" aria-hidden="true" focusable="false">
+  <path class="mesh" d="M78 10 L226 16 M150 30 L300 32 M226 16 L372 12 M300 32 L446 26"/>
+  <path id="net-{{ tid }}" class="line" d="M6 22 L78 10 L150 30 L226 16 L300 32 L372 12 L446 26 L514 14"/>
+  <path id="net-{{ tid }}-r" class="line" d="M514 14 L446 26 L372 12 L300 32 L226 16 L150 30 L78 10 L6 22"/>
+  <g class="nodes">
+    <circle cx="6" cy="22" r="3.2"/><circle cx="78" cy="10" r="3.2"/><circle cx="150" cy="30" r="3.2"/>
+    <circle class="hub" cx="226" cy="16" r="5.2"/><circle cx="300" cy="32" r="3.2"/><circle cx="372" cy="12" r="3.2"/>
+    <circle cx="446" cy="26" r="3.2"/><circle cx="514" cy="14" r="3.2"/>
+  </g>
+  <rect class="pkt" x="-3" y="-3" width="6" height="6" rx="1.2">
+    <animateMotion dur="8s" repeatCount="indefinite"><mpath href="#net-{{ tid }}"/></animateMotion>
+  </rect>
+  <rect class="pkt pkt--2" x="-2.5" y="-2.5" width="5" height="5" rx="1">
+    <animateMotion dur="11s" begin="-4s" repeatCount="indefinite"><mpath href="#net-{{ tid }}-r"/></animateMotion>
+  </rect>
+</svg>

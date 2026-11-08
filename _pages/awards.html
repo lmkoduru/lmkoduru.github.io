@@ -1,0 +1,27 @@
+---
+layout: academic
+title: "Awards"
+permalink: /awards/
+---
+{% include base_path %}
+
+<header class="page-head">
+  <h1>Fellowships &amp; awards</h1>
+  <p>Fellowships and recognition supporting my work on broadband measurement and data-driven policy.</p>
+  {% include signal-trace.html id="awards" %}
+</header>
+
+<ol class="timeline" reversed>
+  {%- for a in site.data.awards -%}
+  <li class="tl">
+    <div class="tl__date">{{ a.date_label }}</div>
+    <span class="tl__dot" aria-hidden="true"></span>
+    <div class="tl__body">
+      <span class="tl__kind">{{ a.kind }}</span>
+      <h2>{{ a.title }}</h2>
+      <p class="tl__where">{{ a.org }}</p>
+      {% if a.note %}<p class="tl__note">{{ a.note }}</p>{% endif %}
+    </div>
+  </li>
+  {%- endfor -%}
+</ol>
