@@ -8,8 +8,8 @@
   --paper-2:    #f8f3e6;
   --card:       #ffffff;
   --ink:        #17140f;
-  --ink-2:      #45403a;
-  --ink-3:      #6b655c;
+  --ink-2:      #17140f;
+  --ink-3:      #17140f;
   --rule:       #ece4cf;
   --accent:     #8a6a12;   /* antique gold: text & links */
   --accent-2:   #7a4f0e;   /* deep bronze: small labels */
@@ -28,8 +28,8 @@
     --paper-2:    #1e1a12;
     --card:       #18150e;
     --ink:        #f3ede0;
-    --ink-2:      #c9c1b0;
-    --ink-3:      #9b9383;
+    --ink-2:      #f3ede0;
+    --ink-3:      #f3ede0;
     --rule:       #2e281b;
     --accent:     #e3bd5b;
     --accent-2:   #e9a95a;
@@ -44,8 +44,8 @@
   --paper-2:  #1e1a12;
   --card:     #18150e;
   --ink:    #f3ede0;
-  --ink-2:    #c9c1b0;
-  --ink-3:    #9b9383;
+  --ink-2:    #f3ede0;
+  --ink-3:    #f3ede0;
   --rule:     #2e281b;
   --accent:   #e3bd5b;
   --accent-2:   #e9a95a;
@@ -347,3 +347,13 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoratio
   border-radius: 999px; padding: 4px 12px;
 }
 .two-col .aside .tags:first-child { margin-top: 4px; }
+
+/* ---------- Talks & awards: plain ruled list (no timeline line) ---------- */
+.timeline { border-top: 1px solid var(--rule); }
+.timeline::before { content: none; }
+.tl { grid-template-columns: 150px 1fr; gap: 40px; padding: 22px 0; border-bottom: 1px solid var(--rule); }
+.tl:last-child { padding-bottom: 22px; }
+.tl__date { text-align: left; padding-top: 3px; color: var(--accent); }
+@media (max-width: 560px) {
+  .tl { grid-template-columns: 1fr; gap: 4px; padding-left: 0; }
+}

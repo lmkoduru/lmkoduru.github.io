@@ -11,11 +11,10 @@ permalink: /awards/
   {% include signal-trace.html id="awards" %}
 </header>
 
-<ol class="timeline" reversed>
+<ol class="timeline">
   {%- for a in site.data.awards -%}
   <li class="tl">
     <div class="tl__date">{{ a.date_label }}</div>
-    <span class="tl__dot" aria-hidden="true"></span>
     <div class="tl__body">
       <span class="tl__kind">{{ a.kind }}</span>
       <h2>{{ a.title }}</h2>

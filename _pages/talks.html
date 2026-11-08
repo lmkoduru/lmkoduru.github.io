@@ -11,11 +11,10 @@ permalink: /talks/
   {% include signal-trace.html id="talks" %}
 </header>
 
-<ol class="timeline" reversed>
+<ol class="timeline">
   {%- for t in site.data.talks -%}
   <li class="tl">
     <div class="tl__date">{{ t.date_label }}</div>
-    <span class="tl__dot" aria-hidden="true"></span>
     <div class="tl__body">
       <span class="tl__kind">{{ t.kind }}</span>
       <h2>{% if t.url %}<a href="{{ t.url }}">{{ t.title }}</a>{% else %}{{ t.title }}{% endif %}</h2>
