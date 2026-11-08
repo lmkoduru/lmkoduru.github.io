@@ -206,7 +206,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoratio
 .pub__title a { color: var(--ink); }
 .pub__title a:hover { color: var(--accent); }
 .pub__authors { font-family: var(--sans); font-size: 14px; color: var(--ink-2); margin: 0 0 2px; line-height: 1.5; }
-.pub__authors strong { color: var(--ink); font-weight: 600; }
+.pub__authors strong { color: var(--ink); font-weight: 800; }
 .pub__meta { font-size: 16px; font-style: italic; color: var(--ink-3); margin: 0; }
 
 .year {
