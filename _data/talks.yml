@@ -27,6 +27,22 @@
   date: 2025-12-01
   date_label: "Dec 2025"
 
+- title: "Enabling Data-Driven Policymaking Using Broadband-Plan Querying Tool (BQT+)"
+  kind: Conference talk
+  event: "ACM IMC 2025 · PRIME Workshop"
+  place: "Madison, WI"
+  date: 2025-10-28
+  date_label: "Oct 2025"
+  url: "https://arxiv.org/abs/2511.05838"
+
+- title: "Poster: Enabling Data-Driven Policymaking using the Broadband-Plan Querying Tool (BQT+)"
+  kind: Poster
+  event: "ACM IMC 2025"
+  place: "Madison, WI"
+  date: 2025-10-28
+  date_label: "Oct 2025"
+  url: "https://dl.acm.org/doi/abs/10.1145/3730567.3768609"
+
 - title: "Evaluating the Effects of and Interdependencies Among Federal Broadband Funding Programs"
   kind: Conference talk
   event: "TPRC53"
