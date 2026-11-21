@@ -4,7 +4,7 @@ collection: publications
 section: posters-workshops
 permalink: /publication/BQT-IMC
 excerpt: 'Laasya Koduru, Sylee Beltiukov, Jaber Daneshamooz, Eugene Vuong, Arpit Gupta, Elizabeth Belding, and Tejas N. Narechania'
-date: 2025-11-08
+date: 2025-10-28
 venue: 'ACM Workshop of Policy-Relevant Internet Measurements and Experimentation (PRIME), co-located with IMC'
 paperurl: ''
 ---
