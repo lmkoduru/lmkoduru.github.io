@@ -5,6 +5,7 @@
   place: "American University Washington College of Law, Washington, DC"
   date: 2026-09-01
   date_label: "Sep 2026"
+  url: "https://www.tprcweb.com/pre-conference-tutorials"
 
 - title: "From Measurement to Policy Design: A Convex Optimization Framework for Broadband Affordability"
   kind: Conference talk
@@ -12,6 +13,7 @@
   place: "American University Washington College of Law, Washington, DC"
   date: 2026-09-01
   date_label: "Sep 2026"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7590899"
 
 - title: "Enabling Data-Driven Broadband Policymaking using BQT+"
   kind: Invited talk
@@ -19,6 +21,7 @@
   place: "UC San Diego, La Jolla, CA"
   date: 2026-02-01
   date_label: "Feb 2026"
+  url: "https://www.caida.org/workshops/aims/2602/"
 
 - title: "Data-Driven Broadband Policymaking: Bridging the Data Gaps for Effective Policymaking with BQT"
   kind: Invited talk
@@ -26,6 +29,7 @@
   place: "Michigan State University (virtual)"
   date: 2025-12-01
   date_label: "Dec 2025"
+  url: "https://quello.msu.edu/events/data-driven-broadband-policymaking-bridging-the-data-gaps-for-effective-policymaking-with-bqt/"
 
 - title: "Enabling Data-Driven Policymaking Using Broadband-Plan Querying Tool (BQT+)"
   kind: Conference talk
@@ -33,7 +37,7 @@
   place: "Madison, WI"
   date: 2025-10-28
   date_label: "Oct 2025"
-  url: "https://arxiv.org/abs/2511.05838"
+  url: "https://conferences.sigcomm.org/imc/2025/events/prime/"
 
 - title: "Poster: Enabling Data-Driven Policymaking using the Broadband-Plan Querying Tool (BQT+)"
   kind: Poster
@@ -41,7 +45,7 @@
   place: "Madison, WI"
   date: 2025-10-28
   date_label: "Oct 2025"
-  url: "https://dl.acm.org/doi/abs/10.1145/3730567.3768609"
+  url: "https://conferences.sigcomm.org/imc/2025/accepted-posters/"
 
 - title: "Evaluating the Effects of and Interdependencies Among Federal Broadband Funding Programs"
   kind: Conference talk
@@ -49,3 +53,4 @@
   place: "American University Washington College of Law, Washington, DC"
   date: 2025-09-01
   date_label: "Sep 2025"
+  url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5369779"
